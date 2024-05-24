@@ -1,0 +1,1 @@
+# YOLOv8-Oriented-Bounding-Boxes-Model-on-aerial-solar-panels
